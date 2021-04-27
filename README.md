@@ -20,7 +20,7 @@ adapters.
 
 [Android Basics in Kotlin]: https://developer.android.com/courses/android-basics-kotlin/course
 [Unit 4]: https://developer.android.com/courses/android-basics-kotlin/unit-4
-[Pathway 3]: https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2
+[Pathway 2]: https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2
 [Get data from the internet]: https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet
 [Load and display images from the Internet]: https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images
 
