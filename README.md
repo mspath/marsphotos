@@ -15,22 +15,25 @@ The app also leverages
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters.
 
-----
-
 [Android Basics in Kotlin]: https://developer.android.com/courses/android-basics-kotlin/course
 [Unit 4]: https://developer.android.com/courses/android-basics-kotlin/unit-4
 [Pathway 2]: https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2
 [Get data from the internet]: https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet
 [Load and display images from the Internet]: https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.10
-- Android Studio Chipmunk 2021.2.1
-- Gradle Plugin 7.2.2
+- Kotlin 1.7.20
+- Android Studio Dolphin 2021.3.1
+- Gradle Plugin 7.3.1
 
-----
+---
 
-updated: 2022-08-20
+```
+language: kotlin
+repo: marshphotos
+status: archived
+updated: 2022-12-03
+```
